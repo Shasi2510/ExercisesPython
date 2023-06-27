@@ -1,8 +1,8 @@
 nombre = Sharon
 nombre2 = Zabeth
 apellido = Sierra
-
-print(nombre + " " nombre2 + " " apellido)
+nombre_completo = nombre + " " + nombre2 + " " + apellido
+print(nombre_completo)
 
 #Los numeros enteros en Python no tienen limite
 #Una solución simple para restringir los flotantes a dos puntos decimales 
